@@ -1,0 +1,56 @@
+.phone{
+position: absolute;
+left:7px
+
+}
+.font-goldy{
+position: absolute;
+left:100px
+}
+.navbar-brand{
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.download-btn{
+  margin:5% 3% 5% 0;
+}
+
+
+
+#moretext{
+  padding:100px;
+  text-align: center;
+}
+.pricing-column{
+  padding:3% 2%;
+}
+.col-lg-6{
+  font-size:40px;
+}
+#foot{
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  text-align: centre;
+
+  color:white;
+}
+.heading{
+  font-family: "Montserrat-Black"
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+@media(max-width:500px){
+.col-lg-6{
+  font-size: 90px;
+  text-align: center;
+}
